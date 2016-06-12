@@ -8,8 +8,7 @@ import javax.swing.JTextField;
 
 import listener.AddFoodListener;
 import dao.FoodDao;
-
-public class AddFoodDialog extends JDialog {
+  public class AddFoodDialog extends JDialog {
 	/**
 	 * 
 	 */
